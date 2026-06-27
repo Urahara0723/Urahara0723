@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohit Trivedi 👋
 
-### AI & Machine Learning Engineer
+### Aspiring AI & Machine Learning Engineer
 
 🎓 Third-Year BS-MS Physics Student @ IIT Roorkee
 
