@@ -8,9 +8,8 @@
 
 Building intelligent systems with Machine Learning, LLMs, and Data Science.
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) •
-[Portfolio](https://YOUR_PORTFOLIO) •
-[Email](mailto:YOUR_EMAIL)
+[LinkedIn]((https://www.linkedin.com/in/mohit-trivediii/)) •
+[Email](mailto:mohittrivedi0707@gmail.com)
 
 </div>
 
