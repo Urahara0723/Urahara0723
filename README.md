@@ -72,3 +72,23 @@ Interactive analytics dashboard for WhatsApp exports with sentiment, activity an
 - Email - mohittrivedi0707@gmail.com
 
 I enjoy collaborating on Machine Learning, LLM Applications, Data Science and Generative AI projects.
+
+## 🎵 Spotify status
+
+<a href="https://spotify-widget.jvillegasd.com/?opened">
+  <img src="https://spotify-widget.jvillegasd.com/" width="460" height="240" alt="Now Playing">
+</a>
+
+<!-- <div id = "some_issues">
+  <p>It is a little list of problems you can face while implementing this kind of stuff</p>
+  <ul id = "problem_list">
+    <li>
+      Github tend to cache anonymized URL, so you should visit this link if you have problem with image cache.
+      https://docs.github.com/es/github/authenticating-to-github/about-anonymized-image-urls
+    </li>
+    <li>
+      When you wrap your HTML in SVG/foreignObject maybe nothing show up. You can solve this issue visiting this link.
+      https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
+    </li>
+  </ul>
+</div> -->
