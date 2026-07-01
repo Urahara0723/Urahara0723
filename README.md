@@ -1,13 +1,20 @@
+<!-- Banner -->
 <h1 align="center">Hi 👋, I'm Mohit Trivedi</h1>
 
 <h3 align="center">
-Building AI Systems • Machine Learning • Generative AI • Data Science
+AI & Machine Learning Enthusiast | BS-MS Physics @ IIT Roorkee
 </h3>
 
 <p align="center">
-I enjoy building intelligent applications powered by LLMs, Computer Vision, and Data Science.
-Currently exploring Agentic AI, Retrieval-Augmented Generation (RAG), and scalable ML systems.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Building+AI+Applications;LLMs+%7C+RAG+%7C+Computer+Vision;FastAPI+%7C+LangGraph+%7C+PyTorch;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/Urahara0723">
+    <img src="https://komarev.com/ghpvc/?username=Urahara0723&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
