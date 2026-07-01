@@ -1,15 +1,13 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mohit Trivedi</h1>
 
-# Hi, I'm Mohit Trivedi 👋
+<h3 align="center">
+Building AI Systems • Machine Learning • Generative AI • Data Science
+</h3>
 
-### Aspiring AI & Machine Learning Engineer
-
-🎓 Third-Year BS-MS Physics Student @ IIT Roorkee
-
-Building intelligent systems with Machine Learning, LLMs, and Data Science.
-
-</div>
-
+<p align="center">
+I enjoy building intelligent applications powered by LLMs, Computer Vision, and Data Science.
+Currently exploring Agentic AI, Retrieval-Augmented Generation (RAG), and scalable ML systems.
+</p>
 ---
 
 ## 👨‍💻 About Me
