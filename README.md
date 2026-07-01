@@ -47,11 +47,11 @@ Visualizes repository architecture, code complexity, dependencies, and AI-genera
 ### 📌 YouTube Agentic RAG Chatbot
 Multi-turn conversational chatbot using LangGraph, FAISS, OpenRouter and advanced RAG.
 
+### 📌 Satellite Image Classification using Deep Learning
+Developed a deep learning pipeline for satellite imagery classification using transfer learning, computer vision, and geospatial data analysis.
+
 ### 📌 NIFTY Investment Intelligence Platform
 Machine Learning platform for stock prediction, technical indicators, portfolio optimization and explainable AI.
-
-### 📌 WhatsApp Chat Analyzer
-Interactive analytics dashboard for WhatsApp exports with sentiment, activity and user insights.
 
 ---
 
