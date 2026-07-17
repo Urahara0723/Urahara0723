@@ -1,3 +1,11 @@
+<a href="https://github.com/Urahara0723/Urahara0723">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Urahara0723/Urahara0723/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Urahara0723/Urahara0723/main/light.svg">
+  </picture>
+  
+</a>
+
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Mohit Trivedi</h1>
 
